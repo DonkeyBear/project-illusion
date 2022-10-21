@@ -1,0 +1,18 @@
+{
+  "name": "Project Illusion",
+  "short_name": "Illusion",
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "A PWA for performing magic tricks.",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "16x16 32x32 64x64 128x128 256x256 512x512",
+      "type": "image/svg"
+    }
+  ]
+}
